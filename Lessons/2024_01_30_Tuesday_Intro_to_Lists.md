@@ -116,7 +116,7 @@ Tuesday, January 30th 2024
 |---|
 |1. Lists allow us to bundle related elements together.  So, one variable can be used to represent a list instead of using a separate variable for each element in the list. <br>*For example, imagine a list that represents an online shopping cart.  Without using a list, a new variable would be needed everytime an element is added to the shopping cart.*<br><br>2. The length of a list can be changed by appending elements to or removing elements from the list. This allows us our program to update a list as it runs.<br>*For example, consider the shopping cart example again.  The length of the list can change every time an item is added to or removed from the shopping cart.*  <br><br>3. Lists improve the readability of a program.<br>*For example,*<br>`cart = ['milk','eggs','flour','sugar']`<br>*is more elegant than*,<br>`cart_0 = 'milk'`<br>`cart_1 = 'eggs'`<br>`cart_2 = 'flour'`<br>`cart_3 = 'sugar'`<br><br>4. Lists allow us to easily apply the same algorithm to all elements within the list.<br>*For example, all grades in a list of grades could be rounded to the nearest whole number, or all prices in a list of prices could be discounted by 10%.*|
 
-**<a href='https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-exam-reference-sheet.pdf>Click here for the AP Exam Reference Sheet</a>** (See page 3-4 for list operations)
+<a href='https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-exam-reference-sheet.pdf'> **Click here for the AP Exam Reference Sheet**</a> (See page 3-4 for list operations)
 
 **AP Classroom Videos:**<br>
 <a href='https://apclassroom.collegeboard.org/d/r95gljggp1?sui=103,3'>Click here for AP Classroom 3.2 Daily Video 1 (Data Abstraction 1)</a><br>
